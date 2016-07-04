@@ -8,6 +8,10 @@ A script that you can run that makes sure you have the following:
 - sass
 - compass
 
+## Requirements
+
+This is specifically for Mac OSX 10 or later
+
 ## Usage
 
 Clone the repo, and then run:
